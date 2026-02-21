@@ -1,4 +1,8 @@
-## Hi there 👋
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peggypeng0426&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=peggypeng0426&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=peggypeng0426&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=peggypeng0426&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=peggypeng0426&theme=nord_bright)
 
 <!--
 **peggypeng0426/peggypeng0426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
